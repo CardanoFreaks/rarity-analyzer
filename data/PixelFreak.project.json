@@ -1,0 +1,22 @@
+{
+    "name": "PixelFreak",
+    "symbol": "PXL FRIKZ",
+    "description": "They call us ugly and misfits but we prefer to be called freaks",
+    "image": "ipfs://QmeT9aixn6pVesEPyzCtX32AMd4vx5aFodwSAf122sPpGU",  
+    "links": {
+        "drop": "https://pxlfrikz.buffybot.io/",
+        "twitter": "https://twitter.com/CardanoFreaks",
+        "discord": "https://discord.gg/KAgwvxbu"   
+    },
+    "theme": {
+      
+        "back": "#2c2d51",
+        "primary": "#738bce",
+        "secondary": "#55689e", 
+        "highlight": "#FFFFFF",
+        "borderWidth": "4px",
+        "borderRadius": "0px",
+        "boxShadowWidth": "5px",
+        "boxShadowBlur": "10px"
+    }
+}
