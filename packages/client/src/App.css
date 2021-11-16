@@ -105,15 +105,11 @@ a:hover {
 }
 
 .panel-project-info {
-  .panel-nft-list {
-
-    margin-top: -185px;     /*  do vrha */
   
-  
-  }
 }
 
 .panel-nft-list {
+  margin-top: -185px;     /*  do vrha */
 
 }
 

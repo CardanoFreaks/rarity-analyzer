@@ -21,8 +21,8 @@ const CharacterArea = (props:{})=>{
     return (
         <>
             <div style={{display:'flex', flexDirection:'row'}}>
-                <Character punkId={4856} name={'@NotChris'} link={`https://twitter.com/HemanCalvin`}/>
-                <Character punkId={578} name={'@RickLove'} link={`https://twitter.com/Rick_00_Love`}/>
+                <Character punkId={4856} name={'@CardanoFreaks'} link={`https://twitter.com/CardanoFreaks`}/>
+                <Character punkId={578} name={'WebSite'} link={`https://cardanofreaks.art`}/>
             </div>
         </>
     );
@@ -48,7 +48,7 @@ const Character = ({punkId, name, link}:{punkId:number, name:string, link?:strin
                     {!!link && <a href={link}>{`${name}`}</a>}
                 </div>
                 <div>
-                    {`OneDayPunk #${punkId}`}
+                    {`PixelFreak #${punkId}`}
                 </div>
             </div>
         </>
