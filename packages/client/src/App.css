@@ -135,8 +135,11 @@ a:hover {
   }
   
   .panel-nft-list {
+    /*
     grid-row: 2;
     grid-column: 2;
+    */
+    margin-top: -185px;     /*  do vrha */
   }
 }
 
