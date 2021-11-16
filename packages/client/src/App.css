@@ -126,7 +126,7 @@ a:hover {
 
   .panel-project-info {
     grid-row: 1;
-    grid-column: 1 / span 2;
+    grid-column: 1 / span 0;        /*lepa ce das na nulo */
   }
 
   .panel-trait-types {
