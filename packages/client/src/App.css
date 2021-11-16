@@ -105,6 +105,12 @@ a:hover {
 }
 
 .panel-project-info {
+  .panel-nft-list {
+
+    margin-top: -185px;     /*  do vrha */
+  
+  
+  }
 }
 
 .panel-nft-list {
@@ -147,7 +153,7 @@ a:hover {
   align-items: center;
 }
 .project-info-image { min-width: 100px; }
-.project-info-title { font-size: 1.6em; }
+.project-info-title { font-size: 1.6em; display: none; }       /* title disabled */
 .project-info-description { 
   overflow: hidden;
   max-height: 150px;
