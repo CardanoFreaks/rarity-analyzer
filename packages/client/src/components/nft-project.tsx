@@ -167,7 +167,7 @@ export const NftProject = ({ projectKey, projectRarity }:{ projectKey:string, pr
                     <div style={{marginTop: 32}}>NFTs</div>
                     <div style={{display:'flex', flexDirection:'row', justifyContent:'space-between'}}>
                         <div style={{textAlign:'left'}}>
-                            Search <input type='text' style={{maxWidth: 100}} value={pinnedTokenId} onChange={(e)=>setPinnedTokenId(e.target.value)}/>
+                            Search Example PxlFrik #00512 is 512 <input type='text' style={{maxWidth: 100}} value={pinnedTokenId} onChange={(e)=>setPinnedTokenId(e.target.value)}/>
                         </div>
                         <div style={{display:'flex', flexDirection:'row', justifyContent:'flex-end'}}>
                             Sort: 
