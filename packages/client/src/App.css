@@ -142,12 +142,15 @@ a:hover {
 
 .project-list {
 }
+/*
 .project-info {
   display: flex;
   flex-direction: column-reverse;
   justify-content: center;
   align-items: center;
+  
 }
+*/
 .project-info-image { min-width: 100px; }
 .project-info-title { font-size: 1.6em; display: none; }       /* title disabled */
 .project-info-description { 
