@@ -18,7 +18,7 @@ function App() {
 
 const Routing = (props:{}) => {
   const route = window.location.pathname.split('/');
-  const projectKey = route[1] ?? undefined;
+  const projectKey = 'PROJECT_NAME';            /*postavi main page   route[1] ?? undefined */
   const tokenId = route[2] ?? undefined;
 
   console.log('route', {route, projectKey, tokenId});
